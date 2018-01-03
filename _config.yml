@@ -1,5 +1,5 @@
 # Site settings
-title: Natalia Folcini, Berkeley MBA, MSEE, CFA
+title: Natalia Folcini
 description: Rising Data Scientist
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "https://nfolcini.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -7,7 +7,7 @@ description: Rising Data Scientist
 # User settings
 username: Natalia Folcini
 user_description: 7 Years of Very Successful Experience in Data Analysis, Industry Analysis, Technology Strategy, Market Research, Financial Analysis, Business Valuations, and Consulting at companies including The Gartner Group/Dataquest, Intel, Cap Gemini, Frost & Sullivan, and Telefonica de Argentina -- focusing on Disruptive Technologies
-user_title: Software Developer
+user_title: Aspiring Data Scientist
 email: folcini@mba.berkeley.edu
 
 github_username:  nfolcini
